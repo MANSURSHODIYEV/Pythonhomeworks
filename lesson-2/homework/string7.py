@@ -1,0 +1,5 @@
+sentence = input("Enter the sentence: ")
+old_word = input("Enter the word you want to change: ")
+new_word = input("Enter the new word: ")
+updated_sentence = sentence.replace(old_word,new_word)
+print("updated sentence: ", updated_sentence) 
