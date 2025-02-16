@@ -7,3 +7,5 @@ list1 = [1, 3, 5, 2, 4]
 list2 = [1, 4, 7, 9, 5]
 print(uncommon_elements(list1, list2))
 
+
+      
