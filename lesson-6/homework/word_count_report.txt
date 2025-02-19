@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 11
+Top 5 Words:
+as - 2
+cfvdsg - 1
+gfdgad - 1
+gasd - 1
+h - 1
